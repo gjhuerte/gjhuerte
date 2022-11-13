@@ -3,7 +3,7 @@
 Hey there! 👋  <br />
 I'm [Gabriel Jay Huerte](https://gjhuerte.github.io) from the <img src="https://user-images.githubusercontent.com/18547786/201507747-16ac2e44-0739-4251-81d1-f551abbede5f.jpg" width="20px" /> and currently living in the <img src="https://user-images.githubusercontent.com/18547786/201507747-16ac2e44-0739-4251-81d1-f551abbede5f.jpg" width="20px" />.
 
-#### 🧑‍💻 Heres my currently active used programming languages
+#### 🧑‍💻 Heres my currently active used programming languages. ( Press CTRL/Command ➕ F to search )
 ---
 
 <img height="200px" src="https://media1.giphy.com/media/6Pk0lT8C4nV0MNkP4v/giphy.gif?cid=ecf05e4786blrdwjonxovfxbvf0uetw68kc4gj4ig08h86g1&rid=giphy.gif&ct=g" />
@@ -21,7 +21,7 @@ I'm [Gabriel Jay Huerte](https://gjhuerte.github.io) from the <img src="https://
 
 #### ⚒️ Other tools for development
 
-- 🌐 Bootstrap 🔸  JQuery 🔸  SASS/SCSS 🔸  HTML 🔸  Webpack 🔸  Laravel Mix 🔸  Markdown (Jekyll)
+- 🌐 Bootstrap 🔸 TailwindCSS 🔸 SASS/SCSS 🔸  JQuery 🔸  Webpack 🔸  Laravel Mix 🔸  HTML 🔸  Markdown (Jekyll)
 - 📒 Android Studio 🔸  Visual Studio Code 🔸  Sublime Text
 - 🗄️ Apache 🔸  NGINX 🔸  Docker
 - 📂 Git 🔸  Github 
