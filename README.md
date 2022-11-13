@@ -6,7 +6,7 @@ I'm [Gabriel Jay Huerte](https://gjhuerte.github.io) from the <img src="https://
 #### 🧑‍💻 Heres my currently active used programming languages
 ---
 
-<img align="right" height="400px" src="https://media3.giphy.com/media/ZBhXJYVrF9dUuQft3W/giphy.gif?cid=790b761196f6c8b4e283834f817bbc1ff8fab2817a40f62b&rid=giphy.gif&ct=g" />
+<img height="200px" src="https://media1.giphy.com/media/6Pk0lT8C4nV0MNkP4v/giphy.gif?cid=ecf05e4786blrdwjonxovfxbvf0uetw68kc4gj4ig08h86g1&rid=giphy.gif&ct=g" />
 
  - <img src="https://www.pngkey.com/png/detail/269-2693599_html5-logo-php-logo-php-logo-png.png" height="40px" />
  - <img src="https://png.pngitem.com/pimgs/s/578-5785080_laravel-6-logo-png-transparent-png.png" height="40px" />
