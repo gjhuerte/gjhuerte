@@ -1,5 +1,3 @@
-<img src="https://scontent.fmnl4-4.fna.fbcdn.net/v/t39.30808-6/299785317_7817197005016874_3152171502294612169_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEzfFJ0hWJ7bH0-leExK1wAsgvjQukpJPCyC-NC6Skk8IAS-9w4fwGnT4e26lRQi4RrCJPMrSm9viAhUx5Wf9tU&_nc_ohc=FZ7GLU48CegAX85Nwzd&_nc_ht=scontent.fmnl4-4.fna&oh=00_AfDiR4ItT54cscCYf7UP3dmGMgp0_vLz0dEObjS_8uqzcA&oe=6375B747" height="80px" />
-
 Hey there! 👋  <br />
 I'm [Gabriel Jay Huerte](https://gjhuerte.github.io) from the <img src="https://user-images.githubusercontent.com/18547786/201507747-16ac2e44-0739-4251-81d1-f551abbede5f.jpg" width="20px" /> and currently living in the <img src="https://user-images.githubusercontent.com/18547786/201507747-16ac2e44-0739-4251-81d1-f551abbede5f.jpg" width="20px" />.
 
