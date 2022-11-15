@@ -1,7 +1,7 @@
 Hey there! 👋  <br />
 I'm [Gabriel Jay Huerte](https://gjhuerte.github.io) from the <img src="https://user-images.githubusercontent.com/18547786/201507747-16ac2e44-0739-4251-81d1-f551abbede5f.jpg" width="20px" /> and currently living in the <img src="https://user-images.githubusercontent.com/18547786/201507747-16ac2e44-0739-4251-81d1-f551abbede5f.jpg" width="20px" />.
 
-#### 🧑‍💻 Heres my currently active used programming languages. ( Press CTRL/Command + F to search )
+#### 🧑‍💻 Heres my currently active used programming languages
 ---
 
 <img height="200px" src="https://media1.giphy.com/media/6Pk0lT8C4nV0MNkP4v/giphy.gif?cid=ecf05e4786blrdwjonxovfxbvf0uetw68kc4gj4ig08h86g1&rid=giphy.gif&ct=g" />
@@ -17,7 +17,7 @@ I'm [Gabriel Jay Huerte](https://gjhuerte.github.io) from the <img src="https://
 
 ---
 
-#### ⚒️ Other tools for development
+#### ⚒️ Other tools for development ( Press CTRL/Command + F to search )
 
 - 🌐 Bootstrap 🔸 TailwindCSS 🔸 SASS/SCSS 🔸  JQuery 🔸  Webpack 🔸  Laravel Mix 🔸  HTML 🔸  Markdown (Jekyll)
 - 📒 Android Studio 🔸  Visual Studio Code 🔸  Sublime Text
@@ -31,9 +31,9 @@ I'm exploring linux and currently using <img src="https://upload.wikimedia.org/w
 
 ---
 
-###### Want to connect? 🤔
+#### Want to connect? 🤔
 
-- 💬 [Chat me on Linked in](https://www.linkedin.com/in/gjhuerte)
+- 💬 Chat me on [Linked in](https://www.linkedin.com/in/gjhuerte)
 - ✉️ Send me an email at [gjhuerte@gmail.com](mailto:gjhuerte@gmail.com)
 
 <br />
